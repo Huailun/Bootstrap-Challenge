@@ -34,10 +34,15 @@
 	</head>
 	<body class="sfooter">
 			<div class="sfooter-content">
-			<header>
-				<div class="container">
-					
-				</div>
+	<nav class="navbar navbar-default navbar-fixed-topo">
+		<div class="container">
+			<button class="navbar-toggle">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+	</nav>
 			</header>
 
 
