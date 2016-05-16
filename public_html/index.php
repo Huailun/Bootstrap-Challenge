@@ -33,6 +33,12 @@
 	<title>Bootstrap</title>
 </head>
 	<body class="sfooter">
+		<header class="container">
+		<div class="row">
+		<div class="col-sm-12">
+		</div>
+		</div>
+		</header>
 		<div class="sfooter-content">
 			<nav class="navbar navbar-default navbar-fixed-top">
 				<div class="container">
